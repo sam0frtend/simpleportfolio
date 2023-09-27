@@ -1,0 +1,113 @@
+div#myvalues{
+background-color: #e2ebdd;
+}
+
+h1, h2{
+font-size: 56px;
+}
+
+h3{
+font-family: eurostile, Tahoma, sans-serif;
+}
+
+h5{
+color: black;
+}
+
+h6{
+color: #757678;
+}
+
+ul{
+list-style-type: none;
+}
+
+.link-2 {
+ display: inline-block;
+ border-radius: 0px;
+ opacity: 1;
+ color: #fff;
+ font-weight: 600;
+ text-decoration: none;
+ text-shadow: 1px 1px 1px #000, 0 -1px 1px #000, 1px 1px 1px #000, -1px 0 0 #000, 1px 1px 0 #000, 1px 0 0 #000, 0 -1px 0 #000;
+}
+
+.link-2:hover {
+ background-color: #cefe9d;
+ background-image: none;
+ color: #191b1e;
+ text-shadow: none;
+}
+
+.link-3 {
+ display: inline-block;
+ border-radius: 0px;
+ opacity: 1;
+ color: #fff;
+ font-weight: 600;
+ text-decoration: none;
+ text-shadow: 1px 1px 1px #000, 0 -1px 1px #000, 1px 1px 1px #000, -1px 0 0 #000, 1px 1px 0 #000, 1px 0 0 #000, 0 -1px 0 #000;
+}
+
+.link-3:hover {
+ background-color: #EDBEF7;
+ background-image: none;
+ color: #191b1e;
+ text-shadow: none;
+}
+
+.link-4 {
+ display: inline-block;
+ border-radius: 0px;
+ opacity: 1;
+ color: #fff;
+ font-weight: 600;
+ text-decoration: none;
+ text-shadow: 1px 1px 1px #000, 0 -1px 1px #000, 1px 1px 1px #000, -1px 0 0 #000, 1px 1px 0 #000, 1px 0 0 #000, 0 -1px 0 #000;
+}
+
+.link-4:hover {
+ background-color: #F7EF91;
+ background-image: none;
+ color: #191b1e;
+ text-shadow: none;
+}
+
+.link-5 {
+ display: inline-block;
+ border-radius: 0px;
+ opacity: 1;
+ color: #fff;
+ font-weight: 600;
+ text-decoration: none;
+ text-shadow: 1px 1px 1px #000, 0 -1px 1px #000, 1px 1px 1px #000, -1px 0 0 #000, 1px 1px 0 #000, 1px 0 0 #000, 0 -1px 0 #000;
+}
+
+.link-5:hover {
+ background-color: #A34D64;
+ background-image: none;
+ color: #191b1e;
+ text-shadow: none;
+}
+
+.link-11 {
+ display: inline-block;
+ background-image: -webkit-gradient(linear, left top, left bottom, from(#F7B27E), to(#F7B27E));
+ background-image: linear-gradient(180deg, #F7B27E, #F7B27E);
+ /*font-family: Avenirnext, sans-serif;*/
+ color: #1a1b1e;
+ font-size: 56px;
+ line-height: 60px;
+ font-weight: 600;
+ text-decoration: none;
+}
+
+.link-11:hover {
+ background-color: hsla(57, 0%, 100%, 0);
+ background-image: none;
+ color: #fff;
+ text-shadow: 0 -1px 1px #000, 1px 1px 1px #000, 0 1px 1px #000, 1px 1px 1px #000, 1px 0 1px #000, 0 -1px 1px #000;
+}
+
+
+
